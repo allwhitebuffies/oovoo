@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/pants/AndroidStudioProjects/ooVooSample/app/libs/HockeySDK-3.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5555e301018d384c571778367189402e78924888">
+        <dex dex="/home/pants/AndroidStudioProjects/ooVooSample/app/build/intermediates/pre-dexed/debug/HockeySDK-3.0.2-fa6cf4538eb4772bfcbfb81cd14d9a9383070a5d.jar" />
+    </item>
+    <item
+        jar="/home/pants/AndroidStudioProjects/ooVooSample/app/libs/oovooSdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="baee9000e482f01addec12796bafedd02e2d83de">
+        <dex dex="/home/pants/AndroidStudioProjects/ooVooSample/app/build/intermediates/pre-dexed/debug/oovooSdk-f4f39d401534d918b86ac4491e319358a49227cb.jar" />
+    </item>
+
+</items>
